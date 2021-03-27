@@ -70,6 +70,10 @@ Kindly advise, please try to document as much as possible if you think you have 
 
 <b>Hopefully</b>, I'll write more interesting things in the future.
 
-<i>If you want to hear more about tech/random observation, then you are welcome to subscribe to my telegram channel 
-[@khamidov_observes](https://t.me/khamidov_observes) or just follow [my blog](https://bedilbek.me)</i>
+<i>If you want to hear more about tech/random observation, then you are welcome to follow me on [medium](https://medium.bedilbek.me), 
+or a better option would be to follow [my own blog](https://bedilbek.me), 
+or the absolute best choice would be to follow [my telegram channel](https://t.me/s/khamidov_observes) </i>
+
+##### Republished on:
+ - [medium](https://medium.bedilbek.me/why-is-docker-compose-slow-c8b770e9c81e)
 
