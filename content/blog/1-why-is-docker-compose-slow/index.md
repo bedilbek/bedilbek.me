@@ -72,7 +72,7 @@ Kindly advise, please try to document as much as possible if you think you have 
 
 <i>If you want to hear more about tech/random observation, then you are welcome to follow me on [medium](https://medium.bedilbek.me), 
 or a better option would be to follow [my own blog](https://bedilbek.me), 
-or the absolute best choice would be to follow [my telegram channel](https://t.me/s/khamidov_observes) </i>
+or the absolute best choice would be to follow [my telegram channel](https://t.me/s/bedilbek) </i>
 
 ##### Republished on:
  - [medium](https://medium.bedilbek.me/why-is-docker-compose-slow-c8b770e9c81e)
